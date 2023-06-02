@@ -3,8 +3,6 @@
 <!--
 **DavidQ005/DavidQ005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 📚 I’m currently a college student majoring in computer science
 - ☕ I’m currently learning Java
 - ⌨ I'm looking to continually expand my programming knowledge and the number of languages that I can work with 
